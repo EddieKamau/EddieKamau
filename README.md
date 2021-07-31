@@ -21,7 +21,7 @@
 
 ---
 
-<img align="left" alt="EddieKamau's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EddieKamau&show_icons=true&hide_border=true&hide=stars,prs" />
+<img align="left" alt="EddieKamau's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EddieKamau&show_icons=true&hide_border=true&hide=issues,prs" />
 
 [dart]: https://dart.dev
 [flutter]: https://flutter.dev
